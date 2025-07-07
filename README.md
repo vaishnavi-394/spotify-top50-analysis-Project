@@ -227,4 +227,11 @@ WHERE duration_ms > (
 
 ---
 
-Connect on LinkedIn for more SQL & data projects!
+# 🎵 Spotify SQL Practice Queries
+
+> A collection of practical SQL queries performed on the **Spotify Top 50 USA dataset**, covering aggregation, subqueries, filters & text functions.
+
+
+
+⭐ *Connect on [LinkedIn](https://www.linkedin.com/in/vaishnavi-chakraborty-85b949292/) for more SQL & data projects!*
+
