@@ -227,4 +227,4 @@ WHERE duration_ms > (
 
 ---
 
-⭐ *Connect on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vaishnavi-chakraborty-85b949292/)) for more SQL & data projects!*
+Connect on LinkedIn for more SQL & data projects!
